@@ -52,12 +52,12 @@ F# ならきっともっとたのしい
 
 ---
 
-![Bolero トップページのキャプチャ](fsbolero.io/hero.png)
+![Bolero トップページのキャプチャ](images/fsbolero.io/hero.png)
 https://fsbolero.io
 
 ---
 
-![Bolero 説明のキャプチャ](fsbolero.io/description.png)
+![Bolero 説明のキャプチャ](images/fsbolero.io/description.png)
 https://fsbolero.io
 
 ---
@@ -93,7 +93,7 @@ Application started. Press Ctrl+C to shut down.
 
 ---
 
-![Bolero サンプルスクショ](bolero_application_sample.png)
+![Bolero サンプルスクショ](images/bolero_application_sample.png)
 
 ---
 
