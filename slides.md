@@ -1,8 +1,3 @@
----
-theme: "black"
-transition: "default"
----
-
 # はじめての wasm
 
 # はじめての Bolero
